@@ -3,11 +3,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package com.mycompany.parcialfinal.controlador;
-
+import modelo.dao.VueloDAO;
+        
 /**
  *
  * @author Sebas
  */
 public class VueloController {
+    private VueloDAO modelo;
     
 }
